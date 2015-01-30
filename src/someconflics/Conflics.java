@@ -13,6 +13,7 @@ public class Conflics {
     
     public static void main(String[] args){
         System.out.println("je suis dans le projet Netbeans");
+        System.out.println("Je suis sur le bureau");
     }
     
 }
